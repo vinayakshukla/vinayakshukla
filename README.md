@@ -1,6 +1,6 @@
 ## <sup>Visitor</sup> ![Visitor Count](https://profile-counter.glitch.me/{vinayakshukla}/count.svg)   
 ### Hi there 👋
-I'm Vinayak, a Full-Stack Developer with nearly 3 years of experience crafting robust web applications. I love working in fast-paced agile environments.
+I'm Vinayak, a Full-Stack Developer with nearly 4 years of experience crafting robust web applications. I love working in fast-paced agile environments.
 
 🔹 Web Development: I'm proficient in Angular and Java, creating user-friendly products.
 
